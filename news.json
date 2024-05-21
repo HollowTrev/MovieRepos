@@ -1,0 +1,122 @@
+[
+  {
+    "news_id": "001",
+    "title": "Groundbreaking AI Technology Unveiled",
+    "author": "Alice Johnson",
+    "reporter": "Mark Thompson",
+    "headline": "Tech Company Releases Revolutionary AI",
+    "image": {
+      "url": "https://example.com/images/ai-tech.jpg",
+      "caption": "New AI technology presented at the launch event.",
+      "alt_text": "AI technology launch"
+    }
+  },
+  {
+    "news_id": "002",
+    "title": "Healthcare Advances with New AI Tool",
+    "author": "David Lee",
+    "reporter": "Rachel Adams",
+    "headline": "AI Tool Set to Transform Healthcare Industry",
+    "image": {
+      "url": "https://example.com/images/ai-healthcare.jpg",
+      "caption": "AI tool demonstrated in a healthcare setting.",
+      "alt_text": "AI in healthcare"
+    }
+  },
+  {
+    "news_id": "003",
+    "title": "AI in Finance: What to Expect",
+    "author": "Emma Davis",
+    "reporter": "John Smith",
+    "headline": "Finance Sector Embraces AI for Improved Efficiency",
+    "image": {
+      "url": "https://example.com/images/ai-finance.jpg",
+      "caption": "AI applications in the finance industry.",
+      "alt_text": "AI in finance"
+    }
+  },
+  {
+    "news_id": "004",
+    "title": "Manufacturing Industry Revolutionized by AI",
+    "author": "Michael Brown",
+    "reporter": "Sophia Wilson",
+    "headline": "AI Brings New Era to Manufacturing Processes",
+    "image": {
+      "url": "https://example.com/images/ai-manufacturing.jpg",
+      "caption": "AI technology in a manufacturing plant.",
+      "alt_text": "AI in manufacturing"
+    }
+  },
+  {
+    "news_id": "005",
+    "title": "Education Enhanced by AI Innovations",
+    "author": "Olivia Martin",
+    "reporter": "James Anderson",
+    "headline": "AI Tools Aim to Enhance Educational Experiences",
+    "image": {
+      "url": "https://example.com/images/ai-education.jpg",
+      "caption": "Students using AI tools in the classroom.",
+      "alt_text": "AI in education"
+    }
+  },
+  {
+    "news_id": "006",
+    "title": "Retail Industry Adopts AI for Better Customer Service",
+    "author": "William Clark",
+    "reporter": "Isabella Johnson",
+    "headline": "AI Enhances Customer Service in Retail",
+    "image": {
+      "url": "https://example.com/images/ai-retail.jpg",
+      "caption": "Retail employees using AI technology.",
+      "alt_text": "AI in retail"
+    }
+  },
+  {
+    "news_id": "007",
+    "title": "AI-Powered Robots Enter the Construction Field",
+    "author": "Sophia Harris",
+    "reporter": "Liam Martinez",
+    "headline": "Construction Industry Sees Rise of AI-Powered Robots",
+    "image": {
+      "url": "https://example.com/images/ai-construction.jpg",
+      "caption": "AI-powered robots at a construction site.",
+      "alt_text": "AI in construction"
+    }
+  },
+  {
+    "news_id": "008",
+    "title": "AI Drives Innovations in Agriculture",
+    "author": "Noah Lewis",
+    "reporter": "Mia Walker",
+    "headline": "Agriculture Sector Leverages AI for Better Yields",
+    "image": {
+      "url": "https://example.com/images/ai-agriculture.jpg",
+      "caption": "AI technology used in modern farming.",
+      "alt_text": "AI in agriculture"
+    }
+  },
+  {
+    "news_id": "009",
+    "title": "AI Applications in Environmental Conservation",
+    "author": "Ava Hall",
+    "reporter": "Lucas Allen",
+    "headline": "AI Technology Aids Environmental Conservation Efforts",
+    "image": {
+      "url": "https://example.com/images/ai-environment.jpg",
+      "caption": "AI used in environmental conservation.",
+      "alt_text": "AI in environmental conservation"
+    }
+  },
+  {
+    "news_id": "010",
+    "title": "AI in Entertainment: Changing the Game",
+    "author": "Ethan Wright",
+    "reporter": "Charlotte Scott",
+    "headline": "Entertainment Industry Embraces AI for Content Creation",
+    "image": {
+      "url": "https://example.com/images/ai-entertainment.jpg",
+      "caption": "AI technology in the entertainment industry.",
+      "alt_text": "AI in entertainment"
+    }
+  }
+]
